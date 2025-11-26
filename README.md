@@ -1,6 +1,6 @@
 # Object-detection-using-web-camera
-# DEVELOPED BY: Prashanth K
-# REGISTER NUMBER: 212223230152
+# DEVELOPED BY:Kannan N
+# REGISTER NUMBER: 212223230097
 # AIM:
 To detect and identify real-time objects from a live webcam feed using the YOLOv4 (You Only Look Once) deep learning model.
 
